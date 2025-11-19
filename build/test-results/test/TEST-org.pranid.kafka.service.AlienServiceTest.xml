@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlienService Unit Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-11-19T16:22:07.244Z" hostname="DE1-868.local" time="0.02">
+  <properties/>
+  <testcase name="Should delete alien by ID successfully" classname="org.pranid.kafka.service.AlienServiceTest" time="0.017"/>
+  <testcase name="Should get alien by ID successfully" classname="org.pranid.kafka.service.AlienServiceTest" time="0.001"/>
+  <testcase name="Should create alien successfully" classname="org.pranid.kafka.service.AlienServiceTest" time="0.001"/>
+  <testcase name="Should get all aliens successfully" classname="org.pranid.kafka.service.AlienServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

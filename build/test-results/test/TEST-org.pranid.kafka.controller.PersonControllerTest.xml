@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonController Unit Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-19T16:22:07.127Z" hostname="DE1-868.local" time="0.116">
+  <properties/>
+  <testcase name="Should get all persons successfully" classname="org.pranid.kafka.controller.PersonControllerTest" time="0.077"/>
+  <testcase name="Should handle Kafka error when creating person" classname="org.pranid.kafka.controller.PersonControllerTest" time="0.017"/>
+  <testcase name="Should create person via Kafka successfully" classname="org.pranid.kafka.controller.PersonControllerTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
